@@ -18,7 +18,7 @@
         <hudson.model.BooleanParameterDefinition>
           <name>GENERATE_EXAMPLE_WORKSPACE</name>
           <description>Should an example workspace be generated?</description>
-          <defaultValue>false</defaultValue>
+          <defaultValue>true</defaultValue>
         </hudson.model.BooleanParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
